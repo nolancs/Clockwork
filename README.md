@@ -1,2 +1,2 @@
 # Clockwork
-Clockwork Crossplatform Framework provides crossplatform scripting, networking, file I/O, and many other features for Unix, Windows, and Macintosh operating systems. Build once, run anywhere.
+Clockwork Crossplatform Framework provides crossplatform scripting, networking, file I/O, and many other features for Unix, Windows, and Macintosh operating systems. Build once, run anywhere. This was built many years ago and even supports pre-OSX Macintosh operating systems. For an example on how to use the crossplatform scripting functionality see the [OrangeMUD project](https://github.com/nolancs/OrangeMUD). 
