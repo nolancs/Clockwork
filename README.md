@@ -1,5 +1,5 @@
 # Clockwork
-Clockwork Crossplatform Framework provides crossplatform scripting, networking, file I/O, and many other features for Unix, Windows, and Macintosh operating systems. Build once, run anywhere. This was built many years ago and even supports pre-OSX Macintosh operating systems. For an example on how to use the crossplatform scripting functionality see the [OrangeMUD project](https://github.com/nolancs/OrangeMUD). 
+Clockwork Crossplatform Framework provides crossplatform scripting, networking, file I/O, and many other features for Unix, Windows, and Macintosh operating systems. Build once, run anywhere. This was built many years ago and even supports pre-OSX Macintosh operating systems. 
 
 ### C-Like Scripting Language...
 Sample dartboard script. Can be changed and recompiled on the fly without having to restart the application.
@@ -56,3 +56,4 @@ while(throw <= 3)
    throw = throw + 1;
 }
 ```
+For further examples on how to use the scripting functionality see the implementation in the [OrangeMUD project](https://github.com/nolancs/OrangeMUD). 
